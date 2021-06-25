@@ -1,0 +1,14 @@
+<!doctypehtml>
+<meta charset="utf-8"
+<h1>초등백과</h1>
+<ul>
+<li><a href="1학년 게시판"><1학년 게시판></li>
+<li><a href="2학년 게시판"><2학년 게시판></li>
+<li><a href="3학년 게시판"><3학년 게시판></li>
+<li><a href="4학년 게시판"><4학년 게시판></li>
+<li><a href="5학년 게시판"><5학년 게시판></li>
+<li><a href="6학년 게시판"><6학년 게시판></li>
+</ul>
+<h2>온라인학습게시판</h2>
+<br>
+<img src="1.jpg" width="100%">
